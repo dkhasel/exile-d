@@ -1,0 +1,5 @@
+.buildpath
+.dub/
+.project
+lib*.a
+.*.md.html
